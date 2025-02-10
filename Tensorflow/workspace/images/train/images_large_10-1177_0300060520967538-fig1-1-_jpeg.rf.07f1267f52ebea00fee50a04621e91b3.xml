@@ -1,0 +1,14 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images_large_10-1177_0300060520967538-fig1-1-_jpeg.rf.07f1267f52ebea00fee50a04621e91b3.jpg</filename>
+	<path>C:\bsu_thesis\Tensorflow\workspace\images\train\images_large_10-1177_0300060520967538-fig1-1-_jpeg.rf.07f1267f52ebea00fee50a04621e91b3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1004</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
