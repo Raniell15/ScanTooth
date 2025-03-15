@@ -24,7 +24,143 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/front_teeth_pt2_77.xml
 		<name>URLI_healthy</name>
+=======
+		<name>ULCI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>128</ymin>
+			<xmax>394</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>URLI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>120</ymin>
+			<xmax>228</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ULLI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>123</ymin>
+			<xmax>445</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ULC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>119</ymin>
+			<xmax>474</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>UL1BC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>115</ymin>
+			<xmax>492</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>URC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>116</ymin>
+			<xmax>173</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>UR1BC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>121</ymin>
+			<xmax>139</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>UR2BC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>134</ymin>
+			<xmax>115</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LRCI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>200</ymin>
+			<xmax>286</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LRLI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>194</ymin>
+			<xmax>227</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LRC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>203</ymin>
+			<xmax>188</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LR1BC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/37.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +172,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/front_teeth_pt2_77.xml
 		<name>URC_decay</name>
+=======
+		<name>LLCI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/37.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,6 +188,7 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/front_teeth_pt2_77.xml
 		<name>UR1BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -193,6 +334,9 @@
 	</object>
 	<object>
 		<name>LLC_decay</name>
+=======
+		<name>LLLI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/37.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -204,15 +348,38 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/front_teeth_pt2_77.xml
 		<name>LL1BC_healthy</name>
+=======
+		<name>LLC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/37.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/front_teeth_pt2_77.xml
 			<xmin>390</xmin>
 			<ymin>134</ymin>
 			<xmax>432</xmax>
 			<ymax>220</ymax>
+=======
+			<xmin>389</xmin>
+			<ymin>200</ymin>
+			<xmax>431</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LL1BC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>201</ymin>
+			<xmax>459</xmax>
+			<ymax>277</ymax>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/37.xml
 		</bndbox>
 	</object>
 	<object>

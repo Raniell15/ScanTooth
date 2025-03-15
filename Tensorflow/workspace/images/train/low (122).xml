@@ -12,6 +12,81 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (122).xml
+=======
+		<name>URCI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>63</ymin>
+			<xmax>130</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>URLI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>62</ymin>
+			<xmax>107</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>URC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>62</ymin>
+			<xmax>84</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ULCI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>63</ymin>
+			<xmax>164</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ULLI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>56</ymin>
+			<xmax>184</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ULC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>46</ymin>
+			<xmax>204</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+	<object>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/76.xml
 		<name>LRCI_healthy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

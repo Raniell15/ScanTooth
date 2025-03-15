@@ -17,14 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (36).xml
 			<xmin>811</xmin>
+=======
+			<xmin>96</xmin>
+			<ymin>71</ymin>
+			<xmax>141</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>URLI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/17.xml
 			<ymin>79</ymin>
 			<xmax>1071</xmax>
 			<ymax>388</ymax>
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (36).xml
 		<name>URLI_decay</name>
+=======
+		<name>URC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/17.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +56,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (36).xml
 		<name>URC_decay</name>
+=======
+		<name>UR1BC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/17.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +72,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (36).xml
 		<name>UR1BC_healthy</name>
+=======
+		<name>ULCI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/17.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +88,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (36).xml
 		<name>UR2BC_healthy</name>
+=======
+		<name>ULLI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/17.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,7 +104,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (36).xml
 		<name>UR1M_healthy</name>
+=======
+		<name>ULC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/17.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +120,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (36).xml
 		<name>ULCI_decay</name>
+=======
+		<name>UL1BC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/17.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +208,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (36).xml
 		<name>LR2BC_healthy</name>
+=======
+		<name>LR2BC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/17.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -221,10 +265,29 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (36).xml
 			<xmin>1403</xmin>
 			<ymin>754</ymin>
 			<xmax>1528</xmax>
 			<ymax>959</ymax>
+=======
+			<xmin>221</xmin>
+			<ymin>101</ymin>
+			<xmax>246</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LL2BC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>94</ymin>
+			<xmax>259</xmax>
+			<ymax>113</ymax>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/17.xml
 		</bndbox>
 	</object>
 </annotation>

@@ -12,19 +12,44 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 		<name>LRCI_healthy</name>
+=======
+		<name>URCI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 			<xmin>189</xmin>
 			<ymin>294</ymin>
+=======
+			<xmin>227</xmin>
+			<ymin>175</ymin>
+			<xmax>304</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>URLI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>174</ymin>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 			<xmax>227</xmax>
 			<ymax>328</ymax>
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 		<name>LRLI_decay</name>
+=======
+		<name>URC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +61,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 		<name>LRC_decay</name>
+=======
+		<name>ULCI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +77,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 		<name>LR1BC_decay</name>
+=======
+		<name>ULLI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +93,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 		<name>LR2BC_decay</name>
+=======
+		<name>ULC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,7 +109,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 		<name>LR1M_decay</name>
+=======
+		<name>LRCI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +125,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 		<name>LR2M_decay</name>
+=======
+		<name>LRLI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +141,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 		<name>LLCI_healthy</name>
+=======
+		<name>LRC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -144,7 +193,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 		<name>LL2BC_decay</name>
+=======
+		<name>LR1BC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +209,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 		<name>LL1M_decay</name>
+=======
+		<name>LLCI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,15 +225,50 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 		<name>LL2M_decay</name>
+=======
+		<name>LLLI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (310).xml
 			<xmin>395</xmin>
 			<ymin>21</ymin>
 			<xmax>468</xmax>
 			<ymax>91</ymax>
+=======
+			<xmin>350</xmin>
+			<ymin>233</ymin>
+			<xmax>385</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LLC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>214</ymin>
+			<xmax>418</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LL1BC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>211</ymin>
+			<xmax>443</xmax>
+			<ymax>267</ymax>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/36.xml
 		</bndbox>
 	</object>
 </annotation>

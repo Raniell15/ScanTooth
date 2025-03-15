@@ -48,7 +48,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (35).xml
 		<name>ULCI_decay</name>
+=======
+		<name>ULC1_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/72.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

@@ -216,7 +216,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/front_teeth_pt2_57.xml
 		<name>LR1M_healthy</name>
+=======
+		<name>LR1M_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/27.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -264,7 +268,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/front_teeth_pt2_57.xml
 		<name>LL1BC_healthy</name>
+=======
+		<name>LL1BC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/27.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -276,15 +284,38 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/front_teeth_pt2_57.xml
 		<name>LL1M_healthy</name>
+=======
+		<name>LL2BC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/27.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/front_teeth_pt2_57.xml
 			<xmin>831</xmin>
 			<ymin>231</ymin>
 			<xmax>907</xmax>
 			<ymax>325</ymax>
+=======
+			<xmin>965</xmin>
+			<ymin>249</ymin>
+			<xmax>1028</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LL1M_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1012</xmin>
+			<ymin>244</ymin>
+			<xmax>1077</xmax>
+			<ymax>337</ymax>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/27.xml
 		</bndbox>
 	</object>
 </annotation>

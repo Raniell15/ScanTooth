@@ -216,7 +216,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (79).xml
 		<name>LR1M_healthy</name>
+=======
+		<name>LR1M_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/23.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

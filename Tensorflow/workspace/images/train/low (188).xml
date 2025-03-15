@@ -144,15 +144,50 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (188).xml
 		<name>LL1M_decay</name>
+=======
+		<name>UL1BC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/7_jpg.rf.bed8240c65f7a115d21d238f32fca161.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/low (188).xml
 			<xmin>251</xmin>
 			<ymin>10</ymin>
 			<xmax>296</xmax>
 			<ymax>55</ymax>
+=======
+			<xmin>250</xmin>
+			<ymin>69</ymin>
+			<xmax>279</xmax>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LL1BC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>101</ymin>
+			<xmax>269</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>URCI_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>51</ymin>
+			<xmax>109</xmax>
+			<ymax>94</ymax>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/7_jpg.rf.bed8240c65f7a115d21d238f32fca161.xml
 		</bndbox>
 	</object>
 </annotation>

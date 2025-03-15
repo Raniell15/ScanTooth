@@ -101,10 +101,29 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (61).xml
 			<xmin>3218</xmin>
 			<ymin>309</ymin>
 			<xmax>3448</xmax>
 			<ymax>725</ymax>
+=======
+			<xmin>906</xmin>
+			<ymin>176</ymin>
+			<xmax>970</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>UL1M_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1010</xmin>
+			<ymin>174</ymin>
+			<xmax>1077</xmax>
+			<ymax>294</ymax>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/26.xml
 		</bndbox>
 	</object>
 </annotation>

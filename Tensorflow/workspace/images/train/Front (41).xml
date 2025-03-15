@@ -41,10 +41,29 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (41).xml
 			<xmin>361</xmin>
 			<ymin>438</ymin>
 			<xmax>594</xmax>
 			<ymax>829</ymax>
+=======
+			<xmin>66</xmin>
+			<ymin>70</ymin>
+			<xmax>88</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>UR1BC_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>69</ymin>
+			<xmax>69</xmax>
+			<ymax>85</ymax>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/56.xml
 		</bndbox>
 	</object>
 	<object>
@@ -60,7 +79,11 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/Front (41).xml
 		<name>ULLI_healthy</name>
+=======
+		<name>ULLI_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/56.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

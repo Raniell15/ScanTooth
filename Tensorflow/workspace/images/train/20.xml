@@ -1,4 +1,4 @@
-<annotation>
+h<annotation>
 	<folder>train</folder>
 	<filename>20.jpg</filename>
 	<path>C:\bsu_thesis\Tensorflow\workspace\images\train\20.jpg</path>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UR1BC_sdecay</name>
+		<name>UR1BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

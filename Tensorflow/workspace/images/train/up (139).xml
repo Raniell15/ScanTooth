@@ -17,10 +17,53 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/up (139).xml
 			<xmin>94</xmin>
 			<ymin>1</ymin>
 			<xmax>130</xmax>
 			<ymax>23</ymax>
+=======
+			<xmin>95</xmin>
+			<ymin>2</ymin>
+			<xmax>138</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ULCI_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>2</ymin>
+			<xmax>183</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LLCI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>54</ymin>
+			<xmax>158</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LRCI_decay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>55</ymin>
+			<xmax>131</xmax>
+			<ymax>82</ymax>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/16_jpg.rf.f42b936fee3b56bc90046e046fef7e50.xml
 		</bndbox>
 	</object>
 	<object>
@@ -156,7 +199,35 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< Updated upstream:Tensorflow/workspace/images/train/up (139).xml
 		<name>UL1M_decay</name>
+=======
+		<name>LLC_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>48</ymin>
+			<xmax>217</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LRC_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>51</ymin>
+			<xmax>81</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LLC_decay</name>
+>>>>>>> Stashed changes:Tensorflow/workspace/images/train/16_jpg.rf.f42b936fee3b56bc90046e046fef7e50.xml
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
