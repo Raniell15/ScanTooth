@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>URLI_sdecay</name>
+		<name>URLI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

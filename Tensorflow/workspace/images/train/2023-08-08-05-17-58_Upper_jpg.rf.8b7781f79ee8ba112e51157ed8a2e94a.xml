@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UL1M_mdecay</name>
+		<name>UL1M_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UL2M_mdecay</name>
+		<name>UL2M_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UR1M_mdecay</name>
+		<name>UR1M_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UR2M_mdecay</name>
+		<name>UR2M_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

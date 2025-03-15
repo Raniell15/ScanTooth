@@ -1,4 +1,4 @@
-<annotation>
+<annotation verified="yes">
 	<folder>train</folder>
 	<filename>2023-08-13-05-38-19_Upper_jpg.rf.5ab7cb512e0de64c2530200b4a7f24fd.jpg</filename>
 	<path>C:\bsu_thesis\Tensorflow\workspace\images\train\2023-08-13-05-38-19_Upper_jpg.rf.5ab7cb512e0de64c2530200b4a7f24fd.jpg</path>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LR2BC_mdecay</name>
+		<name>LR2BC_healthy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LR1M_mdecay</name>
+		<name>LR1M_healthy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LR2M_mdecay</name>
+		<name>LR2M_healthy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LR3M_mdecay</name>
+		<name>LR3M_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LL1M_mdecay</name>
+		<name>LL1M_healthy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -180,7 +180,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LL2M_sdecay</name>
+		<name>LL2M_healthy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -192,7 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LL3M_mdecay</name>
+		<name>LL3M_healthy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

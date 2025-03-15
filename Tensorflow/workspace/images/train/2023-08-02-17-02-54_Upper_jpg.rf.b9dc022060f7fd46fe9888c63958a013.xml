@@ -120,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UL1BC_mdecay</name>
+		<name>UL1BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

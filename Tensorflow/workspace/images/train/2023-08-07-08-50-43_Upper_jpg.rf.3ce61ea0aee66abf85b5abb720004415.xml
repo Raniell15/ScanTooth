@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LR2M_mdecay</name>
+		<name>LR2M_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

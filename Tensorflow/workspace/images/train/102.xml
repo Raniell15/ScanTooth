@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>102.jpg</filename>
-	<path>C:\Users\admin\Documents\bsu_thesis\Tensorflow\workspace\images\train\102.jpg</path>
+	<path>C:\bsu_thesis\Tensorflow\workspace\images\train\102.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,19 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>URCI_sdecay</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>288</xmin>
-			<ymin>129</ymin>
-			<xmax>330</xmax>
-			<ymax>173</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>URLI_sdecay</name>
+		<name>URLI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>URC_mdecay</name>
+		<name>URC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UR1BC_mdecay</name>
+		<name>UR1BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>ULCI_mdecay</name>
+		<name>ULCI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,19 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>ULLI_sdecay</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>378</xmin>
-			<ymin>135</ymin>
-			<xmax>413</xmax>
-			<ymax>177</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>ULC_mdecay</name>
+		<name>ULC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UL1BC_mdecay</name>
+		<name>UL1BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -108,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LRCI_mdecay</name>
+		<name>LRCI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -120,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LRLI_mdecay</name>
+		<name>LRLI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -132,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LRC_mdecay</name>
+		<name>LRC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -144,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LR1BC_mdecay</name>
+		<name>LR1BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +132,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LR2BC_mdecay</name>
+		<name>LR2BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +144,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LLCI_mdecay</name>
+		<name>LLCI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -180,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LLLI_mdecay</name>
+		<name>LLLI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -192,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LLC_mdecay</name>
+		<name>LLC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -204,7 +180,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LL1BC_mdecay</name>
+		<name>LL1BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -216,7 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LL2BC_mdecay</name>
+		<name>LL2BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

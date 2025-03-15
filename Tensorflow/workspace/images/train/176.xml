@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>176.jpg</filename>
-	<path>C:\Users\admin\Documents\bsu_thesis\Tensorflow\workspace\images\train\176.jpg</path>
+	<path>C:\bsu_thesis\Tensorflow\workspace\images\train\176.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>URLI_sdecay</name>
+		<name>URLI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>URC_mdecay</name>
+		<name>URC_healthy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UR1BC_mdecay</name>
+		<name>UR1BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

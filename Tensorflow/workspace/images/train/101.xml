@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>101.jpg</filename>
-	<path>C:\Users\admin\Documents\bsu_thesis\Tensorflow\workspace\images\train\101.jpg</path>
+	<path>C:\bsu_thesis\Tensorflow\workspace\images\train\101.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>URCI_sdecay</name>
+		<name>URCI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>URLI_sdecay</name>
+		<name>URLI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,19 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UR1BC_mdecay</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>85</xmin>
-			<ymin>149</ymin>
-			<xmax>109</xmax>
-			<ymax>186</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>ULCI_sdecay</name>
+		<name>ULCI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>ULLI_sdecay</name>
+		<name>ULLI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

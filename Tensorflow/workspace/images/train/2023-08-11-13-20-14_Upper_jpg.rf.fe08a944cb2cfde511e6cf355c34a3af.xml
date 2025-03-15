@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UR1M_mdecay</name>
+		<name>UR1M_healthy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

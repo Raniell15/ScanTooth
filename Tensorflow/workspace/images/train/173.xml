@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>173.jpg</filename>
-	<path>C:\Users\admin\Documents\bsu_thesis\Tensorflow\workspace\images\train\173.jpg</path>
+	<path>C:\bsu_thesis\Tensorflow\workspace\images\train\173.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>URCI_mdecay</name>
+		<name>URCI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>URLI_sdecay</name>
+		<name>URLI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>URC_sdecay</name>
+		<name>URC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>ULCI_mdecay</name>
+		<name>ULCI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>ULLI_sdecay</name>
+		<name>ULLI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -108,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>ULC_mdecay</name>
+		<name>ULC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -120,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UL1BC_mdecay</name>
+		<name>UL1BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -216,7 +216,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LLC_sdecay</name>
+		<name>LLC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -225,18 +225,6 @@
 			<ymin>263</ymin>
 			<xmax>491</xmax>
 			<ymax>373</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LL1BC_sdecay</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>486</xmin>
-			<ymin>285</ymin>
-			<xmax>522</xmax>
-			<ymax>369</ymax>
 		</bndbox>
 	</object>
 </annotation>

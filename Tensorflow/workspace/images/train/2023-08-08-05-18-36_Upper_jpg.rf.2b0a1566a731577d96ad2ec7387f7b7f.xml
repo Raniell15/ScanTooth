@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LR2BC_sdecay</name>
+		<name>LR2BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

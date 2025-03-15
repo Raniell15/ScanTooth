@@ -1,110 +1,110 @@
 <annotation>
 	<folder>train</folder>
-	<filename>20.png</filename>
-	<path>D:\bsu_thesis\Tensorflow\workspace\images\train\20.png</path>
+	<filename>20.jpg</filename>
+	<path>C:\bsu_thesis\Tensorflow\workspace\images\train\20.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2436</width>
-		<height>1125</height>
+		<width>255</width>
+		<height>197</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>URCI_healthy</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>907</xmin>
-			<ymin>265</ymin>
-			<xmax>1237</xmax>
-			<ymax>674</ymax>
+			<xmin>255</xmin>
+			<ymin>197</ymin>
+			<xmax>255</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>URLI_healthy</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>671</xmin>
-			<ymin>232</ymin>
-			<xmax>904</xmax>
-			<ymax>611</ymax>
+			<xmin>255</xmin>
+			<ymin>197</ymin>
+			<xmax>255</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>URC_healthy</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>619</xmin>
-			<ymin>377</ymin>
-			<xmax>671</xmax>
-			<ymax>523</ymax>
+			<xmin>255</xmin>
+			<ymin>197</ymin>
+			<xmax>255</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>UR1BC_sdecay</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>386</xmin>
-			<ymin>295</ymin>
-			<xmax>595</xmax>
-			<ymax>556</ymax>
+			<xmin>255</xmin>
+			<ymin>197</ymin>
+			<xmax>255</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>UR2BC_healthy</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>319</xmin>
-			<ymin>377</ymin>
-			<xmax>380</xmax>
-			<ymax>517</ymax>
+			<xmin>255</xmin>
+			<ymin>197</ymin>
+			<xmax>255</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>ULCI_healthy</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1243</xmin>
-			<ymin>262</ymin>
-			<xmax>1565</xmax>
-			<ymax>692</ymax>
+			<xmin>255</xmin>
+			<ymin>197</ymin>
+			<xmax>255</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>ULLI_healthy</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1565</xmin>
-			<ymin>277</ymin>
-			<xmax>1801</xmax>
-			<ymax>617</ymax>
+			<xmin>255</xmin>
+			<ymin>197</ymin>
+			<xmax>255</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>ULC_healthy</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1810</xmin>
+			<xmin>255</xmin>
 			<ymin>180</ymin>
-			<xmax>1977</xmax>
-			<ymax>571</ymax>
+			<xmax>255</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 </annotation>

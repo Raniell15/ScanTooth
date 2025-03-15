@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>228.jpg</filename>
-	<path>C:\Users\admin\Documents\bsu_thesis\Tensorflow\workspace\images\train\228.jpg</path>
+	<path>C:\bsu_thesis\Tensorflow\workspace\images\train\228.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UL1BC_mdecay</name>
+		<name>UL1BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LLCI_mdecay</name>
+		<name>LLCI_healthy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -216,7 +216,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>LL2BC_mdecay</name>
+		<name>LL2BC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

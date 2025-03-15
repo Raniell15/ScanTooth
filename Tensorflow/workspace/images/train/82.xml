@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>82.jpg</filename>
-	<path>C:\Users\admin\Documents\bsu_thesis\Tensorflow\workspace\images\train\82.jpg</path>
+	<path>C:\bsu_thesis\Tensorflow\workspace\images\train\82.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>URC_sdecay</name>
+		<name>URC_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>ULCI_sdecay</name>
+		<name>ULCI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>ULLI_sdecay</name>
+		<name>ULLI_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -81,18 +81,6 @@
 			<ymin>76</ymin>
 			<xmax>204</xmax>
 			<ymax>110</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>UL1BC_sdecay</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>203</xmin>
-			<ymin>86</ymin>
-			<xmax>216</xmax>
-			<ymax>109</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -165,18 +153,6 @@
 			<ymin>97</ymin>
 			<xmax>192</xmax>
 			<ymax>127</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>LL1BC_sdecay</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>194</xmin>
-			<ymin>108</ymin>
-			<xmax>211</xmax>
-			<ymax>128</ymax>
 		</bndbox>
 	</object>
 </annotation>

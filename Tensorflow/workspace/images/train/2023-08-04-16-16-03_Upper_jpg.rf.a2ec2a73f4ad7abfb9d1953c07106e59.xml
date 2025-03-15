@@ -108,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>UR3M_sdecay</name>
+		<name>UR3M_decay</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
