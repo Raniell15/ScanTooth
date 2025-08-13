@@ -1,1 +1,2 @@
-# bsu_thesis
+# ScanTooth
+
